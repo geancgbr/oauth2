@@ -4,7 +4,7 @@ O principal objetivo deste projeto é fornecer uma solução de autenticação e
 # Funcionalidades do Projeto
 * Autenticação com OAuth2.
 * Integração com provedores de identidade OAuth2 (como Google).
-* Integração com provedores de identidade OAuth2 (como Google).
+* Usuários podem fazer login na aplicação usando suas contas de provedores externos.
 
 # Autorização
 * Configurações de segurança para proteger recursos da aplicação.
